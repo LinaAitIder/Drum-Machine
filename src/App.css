@@ -1,3 +1,14 @@
+html{
+  weight:100vh;
+  height:100vh;
+}
+
+.custom-font{
+  font-family: "EB Garamond", serif;
+  font-size:30px;
+  font-weight: bold;
+}
+
 .App {
   text-align: center;
 }
