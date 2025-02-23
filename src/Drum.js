@@ -19,7 +19,7 @@ class Drum extends React.Component{
 
   render(){
     return(
-      <div id="drum-machine" className="container row  justify-content-around ">
+      <div id="drum-machine" className="container row  justify-content-around p-2">
        { pads.map(e => (
           <Pad
           key={e.id} 
