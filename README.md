@@ -6,5 +6,5 @@ React / SASS / Bootstrap
 ![image](https://github.com/user-attachments/assets/1202b529-8c6f-4737-a55f-0e40df40c474)
 
 ## Preview 
-(Try playin with Keys too!)[https://linaaitider.github.io/Drum-Machine]
+(Try playing with Keys too!)[https://linaaitider.github.io/Drum-Machine]
 
