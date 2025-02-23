@@ -1,11 +1,17 @@
 body {
   background-color: #2D336B !important;
-  margin: 0;
+  height: 100vh !important;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+}
+
+#root {
+  height: 100vh !important;
+  margin: 20PX !important;
 }
 
 .custom-font-footer{

@@ -24,7 +24,6 @@ class Pad extends React.Component{
   //handling the click event
   handleTrigger(value){
     let audioElement = document.getElementById(value);
-    console.log(value);
     audioElement.play();
     this.props.updateDisplay(`Playing the ${this.props.value} key`);
   }
@@ -39,7 +38,7 @@ class Pad extends React.Component{
 
   render(props){
     return(
-      <div className="container m-3 drum-pad col-sm-3 justify-content-center p-5 "
+      <div className="container m-2 drum-pad col-3 justify-content-center "
       onClick={()=>this.handleTrigger(this.props.value)} 
       id={this.props.id}>
 
