@@ -1,0 +1,19 @@
+#drum-machine{
+  background-color: #A9B5DF;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-45%,-50%);
+  border-radius: 20px;
+  .drum-pad{
+    background-color: #FFF2F2;
+    border-radius : 20px;
+  }
+  #display{
+    color : white;
+    font-style: italic;
+    padding-bottom: 25px;
+  }
+ 
+}
+
